@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\804bb1a1-d87b-4367-9066-92170a91ed19.md](https://github.com/OpenLocalizationTestOrg/ol-test1/blob/70f35a16462a9926cff432899455ad1c3e9b954d/e2e/804bb1a1-d87b-4367-9066-92170a91ed19.md) | HandedOffSuccess | [Details](#afc3dc83a39121aae1beaf010f9abf3dd5ffbbdb1)
+ [e2e\79c5aa99-e816-45bf-823e-2c004e3b3c6c.md](https://github.com/OpenLocalizationTestOrg/ol-test1/blob/a3d4fef96303eaacd9102761fc74e41d21f3e9b1/e2e/79c5aa99-e816-45bf-823e-2c004e3b3c6c.md) | HandedOffSuccess | [Details](#da1c88c729fbfb5aa6edfb20c53fdfefc17f66191)
 
 ## Item Details
-##### <a name='afc3dc83a39121aae1beaf010f9abf3dd5ffbbdb1'></a> Source: [e2e\804bb1a1-d87b-4367-9066-92170a91ed19.md](https://github.com/OpenLocalizationTestOrg/ol-test1/blob/70f35a16462a9926cff432899455ad1c3e9b954d/e2e/804bb1a1-d87b-4367-9066-92170a91ed19.md)
+##### <a name='da1c88c729fbfb5aa6edfb20c53fdfefc17f66191'></a> Source: [e2e\79c5aa99-e816-45bf-823e-2c004e3b3c6c.md](https://github.com/OpenLocalizationTestOrg/ol-test1/blob/a3d4fef96303eaacd9102761fc74e41d21f3e9b1/e2e/79c5aa99-e816-45bf-823e-2c004e3b3c6c.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [804bb1a1-d87b-4367-9066-92170a91ed19.46c0c1a095fa176f9fb04d445de8f40dc391ddc9.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test1-handoff/blob/14b56a6ef675bb52c71b8dd65b0eef61ffe49d90/ol-handoff/OpenLocalizationTestOrg/ol-test1-dede/ci/ht/804bb1a1-d87b-4367-9066-92170a91ed19.46c0c1a095fa176f9fb04d445de8f40dc391ddc9.de-de.xlf)
-* Handoff Datetime: 2017-01-03 09:17:53
+* Handoff File: [79c5aa99-e816-45bf-823e-2c004e3b3c6c.723bfc0dfe532f7feae98f01fe360805ed2ed9db.de-de.xlf](https://github.com/OpenLocalizationTestOrg/ol-test1-handoff/blob/56d08467fd0ec67985b80b0646b56e8911cf9a8d/ol-handoff/OpenLocalizationTestOrg/ol-test1-dede/ci/ht/79c5aa99-e816-45bf-823e-2c004e3b3c6c.723bfc0dfe532f7feae98f01fe360805ed2ed9db.de-de.xlf)
+* Handoff Datetime: 2017-01-03 09:18:52
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
